@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.metalplanetgames.com/"
+baseurl = "//www.metalplanetgames.com/"
 languageCode = "en-us"
 title = "Metal Planet Games"
 theme = "freelancer"
