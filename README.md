@@ -6,6 +6,6 @@ Website for our studio.
 
 * [Hugo](https://gohugo.io/)
 * [Freelancer theme](https://github.com/digitalcraftsman/hugo-freelancer-theme).
-Several tamplates was edited, check the [layouts](/layouts) folder.
+Several templates was edited, check the [layouts](/layouts) folder.
 
 [![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://www.netlify.com)
